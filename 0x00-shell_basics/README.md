@@ -1,0 +1,1 @@
+A readme file about what each script does 0-current_working_directory1-listit2-bring_me_home3-listfiles4-listmorefiles5-listfilesdigitonly6-firstdirectory7-movethatfile8-firstdelete9-firstdirdeletion10-back11-lists12-file_type13-symbolic_link14-copy_html 
