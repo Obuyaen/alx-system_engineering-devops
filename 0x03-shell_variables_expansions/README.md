@@ -1,0 +1,1 @@
+A readme file about what each script does 0-alias1-hello_you2-path3-paths4-global_variables5-local_variables6-create_local_variable7-create_global_variable 8-true_knowledge9-divide_and_rule10-love_exponent_breath10-love_exponent_breath11-binary_to_decimal12-combinations13-print_float
